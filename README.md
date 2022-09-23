@@ -88,7 +88,6 @@ CREATE TABLE dept_emp(
 Once you have a complete database, perform these steps:
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
-![alt text](https://https://github.com/helloliamtwomey/sql-challenge/blob/main/answers/1.png?raw=true)
 
 2. List first name, last name, and hire date for employees who were hired in 1986.
 
