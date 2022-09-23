@@ -88,9 +88,11 @@ CREATE TABLE dept_emp(
 Once you have a complete database, perform these steps:
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
+
 ![1](https://user-images.githubusercontent.com/108673720/191905749-48a35c00-4a68-48d2-9872-fdb53584c1ed.png)
 
 2. List first name, last name, and hire date for employees who were hired in 1986.
+
 ![2](https://user-images.githubusercontent.com/108673720/191905767-d6e3df4d-7a86-4d6d-92c3-428e0aead3f2.png)
 
 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
@@ -98,12 +100,15 @@ Once you have a complete database, perform these steps:
 ![3](https://user-images.githubusercontent.com/108673720/191905780-6da6db75-0eb0-468a-a2f6-48fe3d0f04ba.png)
 
 4. List the department of each employee with the following information: employee number, last name, first name, and department name.
+
 ![4](https://user-images.githubusercontent.com/108673720/191905790-57d3d70b-4bc1-4c0c-bf17-2bbd7bd4b9cf.png)
 
 5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+
 ![5](https://user-images.githubusercontent.com/108673720/191905799-5a3f7953-f557-49f3-bab1-72f663855544.png)
 
 6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
+
 ![6](https://user-images.githubusercontent.com/108673720/191905806-24d20e62-439a-48ad-b442-a0551274bd8b.png)
 
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
@@ -111,4 +116,5 @@ Once you have a complete database, perform these steps:
 ![7](https://user-images.githubusercontent.com/108673720/191905817-f208e82a-3f70-4cb2-925b-7cdd2262f711.png)
 
 8. List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
+
 ![8](https://user-images.githubusercontent.com/108673720/191905825-ab14388c-4eb9-4402-b21e-5a544de9ce2d.png)
