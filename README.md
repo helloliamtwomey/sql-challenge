@@ -112,17 +112,3 @@ Once you have a complete database, perform these steps:
 
 8. List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
 ![8](https://user-images.githubusercontent.com/108673720/191905825-ab14388c-4eb9-4402-b21e-5a544de9ce2d.png)
-
-## Submission
-
-* Create an image file of your ERD.
-
-* Create a `.sql` file of your table schemata.
-
-* Create a `.sql` file of your queries.
-
-* (Optional) Create a Jupyter notebook of the bonus analysis.
-
-* Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
-
-* Ensure your repository has regular commits and a thorough README.md file
