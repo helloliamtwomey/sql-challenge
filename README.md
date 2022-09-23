@@ -94,6 +94,7 @@ Once you have a complete database, perform these steps:
 ![2](https://user-images.githubusercontent.com/108673720/191905767-d6e3df4d-7a86-4d6d-92c3-428e0aead3f2.png)
 
 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+
 ![3](https://user-images.githubusercontent.com/108673720/191905780-6da6db75-0eb0-468a-a2f6-48fe3d0f04ba.png)
 
 4. List the department of each employee with the following information: employee number, last name, first name, and department name.
