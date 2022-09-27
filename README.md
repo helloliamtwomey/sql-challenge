@@ -35,6 +35,8 @@ CSVs inspected inorder to sketch out an ERD of the tables via:
 
 #### Tables created 
 
+```
+
 CREATE TABLE titles(
 	title_id VARCHAR NOT NULL,
 	title VARCHAR NOT NULL,
@@ -82,6 +84,7 @@ CREATE TABLE dept_emp(
 	FOREIGN KEY (dept_no) REFERENCES departments (dept_no),
 	PRIMARY KEY (emp_no, dept_no)
 );
+```
 
 #### Data Analysis
 
